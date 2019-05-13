@@ -154,7 +154,7 @@ If you do not want to connect the bones, please uncheck.
 
 ## Licence
 
-[MIT License](./LICENCE)
+[GPL License](./LICENCE)
 
 ## Author
 
