@@ -1,5 +1,15 @@
 # Create Bone Based On Edge
 
+## :warning:Warning:warning:
+
+Blender 2.8以降対応バージョンを『Petit Armature Tools』としてリリースしました。
+下記のリポジトリを参照してください。
+
+Blender 2.8 or later compatible version has been released as "Petit Armature Tools".
+Please refer to the repository below.
+
+https://github.com/samia-done/Petit-Armature-Tools
+
 ## Description
 
 「Create Bone Based On Edge」は、Blender 2.79b用のアドオンです。
